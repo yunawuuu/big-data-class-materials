@@ -113,7 +113,7 @@ opp_atlas <- opp_atlas %>%
   rename(kfr_p25=kfr_pooled_pooled_p25) 
 ```
 
-## Regression basics
+## Regression basics 
 
 ### The `lm()` function
 
