@@ -1,6 +1,6 @@
 # Class Materials for Bates ECON/DCS 368: Big Data and Economics
 
-[Full syllabus](https://github.com/big-data-and-economics/big-data-class-materials/blob/main/syllabus/syllabus.pdf)
+[Full syllabus](https://github.com/ECON368-fall2023-big-data-and-economics/big-data-class-materials/blob/main/syllabus/syllabus.pdf)
 
 [`Lectures`](#lectures) | [`Details`](#details) |
 [`FAQ`](#faq) | [`License`](#license)
@@ -34,28 +34,28 @@ This is in progress. Check back in for progress to be made.
 | Date | Day | Topic | Do before class | Due | 
 |------|-----|-------|----------|-----|
 | **Data Science Basics** | | |
-| 2023-09-07  | Th | Introduction to Big Data ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/01-intro/01-Intro.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/01-intro/01-Intro.pdf), [.Rmd](https://github.com/big-data-and-economics/big-data-class-materials/blob/main/lectures/01-intro/01-Intro.Rmd)) | [Read and Install Ch 1, 4-8 of happygitwihtr](https://happygitwithr.com/) | |
-| 2023-09-12  | T | Git slides ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/02-git/02-Git.html#1), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/02-git/02-Git.pdf), [.Rmd](https://github.com/big-data-and-economics/big-data-class-materials/blob/main/lectures/02-git/02-Git.Rmd)) | [Work through Ch 9-19 of happygitwithr](https://happygitwithr.com/connect-intro) | |
-| 2023-09-21  | Th | Empirical Organization slides ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/02-empirical-workflow/02-empirical-workflow.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/02-empirical-workflow/02-empirical-workflow.pdf), [.Rmd](https://github.com/big-data-and-economics/big-data-class-materials/blob/main/lectures/02-empirical-workflow/02-empirical-workflow.Rmd)) | [Read Code and Data for Social Sciences](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf) | |
-| 2023-09-26 | T | R Basics ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/04-rlang/04-rlang.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/04-rlang/04-rlang.pdf), [.Rmd](https://github.com/big-data-and-economics/big-data-class-materials/blob/main/lectures/04-rlang/04-rlang.Rmd)) | [Watch basics of RStudio by Bates alumni Eli Mokas and Ian Ramsay](https://www.youtube.com/watch?v=Ih84O1vfH8Y&t=3391s) | |
+| 2023-09-07  | Th | Introduction to Big Data ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/01-intro/01-Intro.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/01-intro/01-Intro.pdf), [.Rmd](lectures/01-intro/01-Intro.Rmd)) | [Read and Install Ch 1, 4-8 of happygitwihtr](https://happygitwithr.com/) | [Problem Set 1 due 9/25](https://classroom.github.com/a/sNsM0r0T), [solutions](https://github.com/ECON368-fall2023-big-data-and-economics/ps1-selective-colleges-solutions) |
+| 2023-09-12  | T | Git slides ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/02-git/02-Git.html#1), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/02-git/02-Git.pdf), [.Rmd](lectures/02-git/02-Git.Rmd)) | [Work through Ch 9-19 of happygitwithr](https://happygitwithr.com/connect-intro) | |
+| 2023-09-21  | Th | Empirical Organization slides ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/02-empirical-workflow/02-empirical-workflow.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/02-empirical-workflow/02-empirical-workflow.pdf), [.Rmd](lectures/02-empirical-workflow/02-empirical-workflow.Rmd)), Data Tips ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/03-data-tips/03-data-tips.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/03-data-tips/03-data-tips.pdf), [.Rmd](lectures/03-data-tips/03-data-tips.Rmd)) | [Read Code and Data for Social Sciences](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf) | |
+| 2023-09-26 | T | R Basics ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/04-rlang/04-rlang.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/04-rlang/04-rlang.pdf), [.Rmd](lectures/04-rlang/04-rlang.Rmd)) | [Watch basics of RStudio by Bates alumni Eli Mokas and Ian Ramsay](https://www.youtube.com/watch?v=Ih84O1vfH8Y&t=3391s) | |
 | 2023-09-28 | Th | Data Table ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/05-datatable/05-datatable.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/05-datatable/05-datatable.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/05-datatable/05-datatable.pdf)) Tidyverse ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/05-tidyverse/05-tidyverse.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/05-tidyverse/05-tidyverse.pdf), [.Rmd](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/05-tidyverse/05-tidyverse.Rmd)) | [Ch 1 DS4E](https://grantmcdermott.com/ds4e/tidyverse.html) | |
-| 2023-10-03 | T | CSS ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/06-web-css/06-web-css.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/06-web-css/06-web-css.pdf), [.Rmd](https://github.com/big-data-and-economics/big-data-class-materials/blob/main/lectures/06-web-css/06-web-css.Rmd)), [Scraping Notes by Jesus Fernández Villaverde and Pablo Guerrón](https://www.sas.upenn.edu/~jesusfv/Lecture_HPC_10_Web_Scrapping.pdf) | [SelectorGadget](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb) (Chrome), [ScrapeMate](https://addons.mozilla.org/en-US/firefox/addon/scrapemate/) (Firefox) | [Problem Set 1 due](https://classroom.github.com/a/sNsM0r0T), [solutions](https://github.com/ECON368-fall2023-big-data-and-economics/ps1-selective-colleges-solutions) |
-| 2023-10-05 | Th | APIs ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/07-web-apis/07-web-apis.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/07-web-apis/07-web-apis.pdf), [.Rmd](https://github.com/big-data-and-economics/big-data-class-materials/blob/main/lectures/07-web-apis/07-web-apis.Rmd)) | [JSONView](https://jsonview.com/), [Sign-up](https://research.stlouisfed.org/useraccount/apikey) and register for [Personal API Key](https://research.stlouisfed.org/useraccount/apikey) | |
+| 2023-10-03 | T | CSS ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/06-web-css/06-web-css.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/06-web-css/06-web-css.pdf), [.Rmd](lectures/06-web-css/06-web-css.Rmd)), [Scraping Notes by Jesus Fernández Villaverde and Pablo Guerrón](https://www.sas.upenn.edu/~jesusfv/Lecture_HPC_10_Web_Scrapping.pdf) | [SelectorGadget](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb) (Chrome), [ScrapeMate](https://addons.mozilla.org/en-US/firefox/addon/scrapemate/) (Firefox) | [Problem Set 2 due 10/09 at 11:59:59](https://github.com/ECON368-fall2023-big-data-and-economics/PS2-manager-survey), [Solutions](https://github.com/ECON368-fall2023-big-data-and-economics/PS2-manager-survey) |
+| 2023-10-05 | Th | APIs ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/07-web-apis/07-web-apis.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/07-web-apis/07-web-apis.pdf), [.Rmd](lectures/07-web-apis/07-web-apis.Rmd)) | [JSONView](https://jsonview.com/), [Sign-up](https://research.stlouisfed.org/useraccount/apikey) and register for [Personal API Key](https://research.stlouisfed.org/useraccount/apikey) | |
 | **Causal Inference** | | |
-| 2023-10-10 | T | Opportunity Atlas ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/09-oppatlas/09-oppatlas.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/09-oppatlas/09-oppatlas.pdf), [.Rmd](https://github.com/big-data-and-economics/big-data-class-materials/blob/main/lectures/09-oppatlas/09-oppatlas.Rmd)) and Spatial Analysis ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/08-spatial/08-spatial.html#1), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/08-spatial/08-spatial.pdf), [.Rmd](https://github.com/big-data-and-economics/big-data-class-materials/blob/main/lectures/08-spatial/08-spatial.Rmd)) | [Watch Geography of Upward Mobility in America starting at 39min](https://www.youtube.com/watch?v=P0NvsWDKwvs&t=2340s) | [Problem Set 2 due 10/23 at 11:59:59](https://github.com/ECON368-fall2023-big-data-and-economics/PS2-manager-survey), (solutions TK) |
-| 2023-10-12 | Th | Regression Review ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/10-regression/10-regression.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/10-regression/10-regression.pdf), [.Rmd](https://github.com/big-data-and-economics/big-data-class-materials/blob/main/lectures/10-regression/10-regression.Rmd))  & Causal Inference ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/10a-causal-neighborhoods/10a-causal-neighborhoods.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/10a-causal-neighborhoods/10a-causal-neighborhoods.pdf), [.Rmd](https://github.com/big-data-and-economics/big-data-class-materials/blob/main/lectures/10a-causal-neighborhoods/10a-causal-neighborhoods.Rmd)) | Read [Effect Ch 13](https://theeffectbook.net/ch-StatisticalAdjustment.html) or [Mixtape Ch 2](https://mixtape.scunning.com/02-probability_and_regression), [Watch Causal Effects of Neighborhoods](https://youtu.be/_7epNon8wi8?si=VM_f24hrwhVzwE9K) | |
-| 2023-10-17 | T | Panel data and two-way fixed effects ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/11-panel-twfe/11-panel-twfe.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/11-panel-twfe/11-panel-twfe.pdf), [.Rmd](https://github.com/big-data-and-economics/big-data-class-materials/blob/main/lectures/11-panel-twfe/11-panel-twfe.Rmd)) | [Watch first 40min of Teachers and Charter Schools](https://youtu.be/iIIlb1hTbTc?si=rGHD2LCckhG7Rdwn) | |
-| 2023-10-24 | T | Regression Discontinuity Design ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/12-regression-discontinuity/12-regression-discontinuity.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/12-regression-discontinuity/12-regression-discontinuity.pdf), [.Rmd](https://github.com/big-data-and-economics/big-data-class-materials/blob/main/lectures/12-regression-discontinuity/12-regression-discontinuity.Rmd)) | Read [Effect Ch 20](https://theeffectbook.net/ch-RegressionDiscontinuity.html) or [Mixtape Ch 6](https://mixtape.scunning.com/06-regression_discontinuity) | [Problem Set 3 due 10/23 at 11:59:59](https://github.com/ECON368-fall2023-big-data-and-economics/ps3-opportunity-atlas) | 
+| 2023-10-10 | T | Opportunity Atlas ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/09-oppatlas/09-oppatlas.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/09-oppatlas/09-oppatlas.pdf), [.Rmd](lectures/09-oppatlas/09-oppatlas.Rmd)) and Spatial Analysis ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/08-spatial/08-spatial.html#1), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/08-spatial/08-spatial.pdf), [.Rmd](lectures/08-spatial/08-spatial.Rmd)) | [Watch Geography of Upward Mobility in America starting at 39min](https://www.youtube.com/watch?v=P0NvsWDKwvs&t=2340s) | [Problem Set 3 due 10/30 at 11:59:59](https://github.com/ECON368-fall2023-big-data-and-economics/ps3-opportunity-atlas) |
+| 2023-10-12 | Th | Regression Review ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/10-regression/10-regression.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/10-regression/10-regression.pdf), [.Rmd](lectures/10-regression/10-regression.Rmd))  & Causal Inference ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/10a-causal-neighborhoods/10a-causal-neighborhoods.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/10a-causal-neighborhoods/10a-causal-neighborhoods.pdf), [.Rmd](lectures/10a-causal-neighborhoods/10a-causal-neighborhoods.Rmd)) | Read [Effect Ch 13](https://theeffectbook.net/ch-StatisticalAdjustment.html) or [Mixtape Ch 2](https://mixtape.scunning.com/02-probability_and_regression), [Watch Causal Effects of Neighborhoods](https://youtu.be/_7epNon8wi8?si=VM_f24hrwhVzwE9K) | |
+| 2023-10-17 | T | Difference-in-differences ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/11-diff-in-diff/11-diff-in-diff.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/11-diff-in-diff/11-diff-in-diff.pdf), [.Rmd](lectures/11-diff-in-diff/11-diff-in-diff.Rmd)), Panel data and two-way fixed effects ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/11a-panel-twfe/11a-panel-twfe.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/11a-panel-twfe/11a-panel-twfe.pdf), [.Rmd](lectures/11a-panel-twfe/11a-panel-twfe.Rmd)) | [Watch first 40min of Teachers and Charter Schools](https://youtu.be/iIIlb1hTbTc?si=rGHD2LCckhG7Rdwn) | |
+| 2023-10-24 | T | Regression Discontinuity Design ([.html](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/12-regression-discontinuity/12-regression-discontinuity.html), [.pdf](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/12-regression-discontinuity/12-regression-discontinuity.pdf), [.Rmd](lectures/12-regression-discontinuity/12-regression-discontinuity.Rmd)) | Read [Effect Ch 20](https://theeffectbook.net/ch-RegressionDiscontinuity.html) or [Mixtape Ch 6](https://mixtape.scunning.com/06-regression_discontinuity) | | 
 | 2023-10-26 | Th | Applications: college wage premia, Neighborhoods and Mobility, MITA and mining | [Watch first 25min of The Causal Effect of Colleges](https://youtu.be/yo3axaZBm_g?si=3Jaw7B3Dzlvn3Cnj) | | 
 | **Machine Learning** | | |
 | 2023-10-31 | T | Functions & Parallel Programming | [Refer to Chapters 2-4 of DS4E](https://grantmcdermott.com/ds4e/funcs-intro.html) | |
-| 2023-11-02 | Th | SQL | | |
+| 2023-11-02 | Th | SQL | | Problem Set 4 due 11/13 at 11:59:59 |
 | 2023-11-07 | T | Machine Learning: Decision trees | [Read ISLR 8.1](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf) | |
 | 2023-11-09 | Th | Machine Learning: Bias and Judicial Decisions | [Watch Improving Judicial Decisions](https://youtu.be/AuNzoCk_uxM?si=dFpn0aQel4amdH-_) | |
-| 2023-11-14 | T | Machine Learning: Regressional penalization | [Read ISLR Ch 6.1, 6.2](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf)  | |
+| 2023-11-14 | T | Machine Learning: Regressional penalization | [Read ISLR Ch 6.1, 6.2](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf)  | Problem Set 6 due 11/27 at 11:59:59 |
 | 2023-11-16 | Th | Machine Learning: Causal Forests, at-risk youth application | [Read ISLR 8.2](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf) | |
 | 2023-11-28 | T | Regular expressions, WordClouds | [Read Gentzkow (2019): Text as Data](https://bates.primo.exlibrisgroup.com/discovery/openurl?institution=01CBB_BCOLL&vid=01CBB_BCOLL:BATES&volume=57&date=2019&aulast=Gentzkow&issue=3&issn=0022-0515&spage=535&id=doi:10.1257%2Fjel.20181020&auinit=M&title=Journal%20of%20Economic%20Literature&atitle=Text%20as%20data&sid=google) | |
-| 2023-11-30 | Th | Sentiment Analysis | [Read Stephens-Davidowitz (2014)](https://www.sciencedirect.com/science/article/pii/S0047272714000929) | |
+| 2023-11-30 | Th | Sentiment Analysis | [Read Stephens-Davidowitz (2014)](https://www.sciencedirect.com/science/article/pii/S0047272714000929) | Problem Set 7 due 12/11 at 11:59:59 |
 | 2023-12-05 | T | Topics Modeling, LLMs | [Read Ash and Hansen (2023): Text Algorithms](https://www.annualreviews.org/doi/pdf/10.1146/annurev-economics-082222-074352) | |
 | 2023-12-07 | Th | AI and bias | Read [Rambachan et al (2020)](https://www.jstor.org/stable/pdf/27042527.pdf) and [Cowgill et al. (2019)](https://conference.nber.org/confer/2019/YSAIf19/SSRN-id3361280.pdf) | |
 
@@ -68,6 +68,42 @@ This class is about helping you build good habits for doing organized and reprod
 - Use Big Data to generate key insights about economic opportunity, inequality, and other social problems
 - Understand the differences between prediction, causality, and description, and when to apply each
 - Explain what data science is, and how Big Data differs from other types of data 
+
+## Navigating the course
+
+- All problem sets and lectures are linked above in the [calendar](#lectures)
+- The repository for each problem set, these course materials, and your class presentations are all linked in the [organization page](https://github.com/orgs/ECON368-fall2023-big-data-and-economics/repositories)
+
+## Expectations
+
+This is an extremely challenging course. To help you succeed, I have outlined expectations for both you and me.
+
+### For your professor
+
+- Link to lecture slides and problem sets in the [calendar](#lectures)
+- Post any software you need to download or other materials you need to prep for class in the [calendar](#lectures) with 24 hours notice
+- Outline learning goals at the top of each lecture
+- Clearly explain the expectations for each problem set
+- Grade your problem sets within two weeks (i.e. before the next problem set is due)
+    - Post all problem set solutions to the repository within a week of the problem set being due
+- Check the GitHub Issues tab (for all repositories) at least once per day to answer questions
+
+### For students
+
+- Check the [calendar](#lectures) within 24 hours of each lecture to see any materials you need to download/review
+- Fork the main problem set repository within 48 hours of the problem set being posted
+- Open problem set data and code within 48 hours of the problem set being posted
+- Work on problem sets in groups, but turn in your own code
+- Post questions about material or problem sets to [GitHub Issues](https://github.com/ECON368-fall2023-big-data-and-economics/big-data-class-materials/issues) unless it is of a private matter (e.g. grades, extensions)
+    - There is a GitHub Issues tab within every problem set that I create, please post questions about problem sets directly to the tab for each problem set
+    - If I receive an email with a question that will benefit everyone, I will ask you to post it to GitHub Issues
+    - This is so that everyone can benefit from the answer
+    - Also, it will encourage collaboration
+- Use computers in class for class-related activities only
+
+### How I will run class
+
+Most classes will be divided into a "lecture" and an "interactive" component. During the lecture, computers will be closed. During the interactive component, computers will be open for you to work through it. 
 
 ## Resources to use for class
 
@@ -127,13 +163,13 @@ Scheduled hours for R held in the Student Academic Support Center (SASC) of the 
 Chrissy Aman is our Course-Attached tutor. She will host office hours in the SASC and will be available for individual appointments. Her hours are:
 
 - Fridays at 6:45pm
-- Sundays at TBD
+- Sundays at 10am-12pm in PGill 227
 
 Chrissy can help you troubleshoot *R*. She does not know have solution to the problem sets, but she can help you figure them out. 
 
-## Details
+## Other details
 
-This is an undergraduate course taught by [Kyle Coombs](https://kylecoombs.com/). Here is the course description, right out of the [syllabus](https://github.com/big-data-and-economics/big-data-class-materials/blob/main/syllabus/syllabus.pdf):
+This is an undergraduate course taught by [Kyle Coombs](https://kylecoombs.com/). Here is the course description, right out of the [syllabus](syllabus/syllabus.pdf):
 
 Economics is at the forefront of developing statistical methods for analyzing data collected from uncontrolled sources. Since econometrics addresses challenges in estimation such as sample selection bias and treatment effects identification, the discipline is well-suited for the analysis of large and unsystematically collected datasets. This course introduces statistical (machine) learning methods, which have been developed for analyzing such datasets but which have only recently been implemented in economic research. We will cover a variety of topics including data collection, data management, data description, causal inference, and data visualization.  The course also explores how econometrics and statistical learning methods cross-fertilize and can be used to advance knowledge in the numerous domains where large volumes of data are rapidly accumulating. We will also cover the ethics of data collection and analysis. The course will be taught in *R*. 
 
@@ -143,8 +179,10 @@ Economics is at the forefront of developing statistical methods for analyzing da
 | 7 × problem sets (10% each)               | 50%    | Top 5  |
 | 1 × short presentation                    | 10%    | Top 1  |
 | 1 × final project                         | 40%    | [In parts](https://github.com/ECON368-fall2023-big-data-and-economics/final-project) |
+| Participation                             | Bonus up to 10%    | End of course  |
 
 - Short presentations summarize either a key lecture reading, or an (approved) software package/platform.
+    - Sign up [here](https://github.com/ECON368-fall2023-big-data-and-economics/presentations-team)
 - Extensions: Each of you gets three ''grace period'' days to extend deadlines. 
 - You can use these days in any way you like, but once they're gone, they're gone.
 
@@ -168,20 +206,33 @@ Throughout the course you will engage in problem sets that deal with actual data
 - You are encouraged to work together on problem sets, but you must write up your own answers (unless it is a group assignment)
 - All problem sets will be completed and turned in as GitHub repositories
 
+#### What you will turn in:
+
+- Each problem set will be posted as a GitHub repository, which you will fork, set to private, and then clone to your computer (instructions provided in each problem set)
+- You will then work on the problem set on your computer, and push your code to GitHub (push often!)
+- For each problem set, you will turn in modular code (i.e. separate files do separate things) that accomplishes the tasks outlined in the problem set
+- You will also turn in a `.Rmd` file that contains your answers to the questions in the problem set along with a knitted `.html` or `.pdf` of your `.Rmd`
+    - This `.Rmd` will "source" the code you wrote, so I can easily run your code from start to finish by `knitting`
+- Your problem sets will have a sensible folder structure that is easy to navigate (name folders `code`, `data`, `output`, etc.)
+- You will turn in your problem sets by pushing your code to GitHub. 
+
 **Grading**
 
 Your problem sets are graded on three dimensions: 
 
 1. Submission via GitHub (10%): Did you use GitHub to stage, commit, and push your code? Did you submit the assignment on time? Did you submit the assignment in the correct format?
 2. Quality of code (30%): Is it well-commented? Is it easy to follow? Can I run it?
+    a. Any scripts needed to run your code should be included in the repository and sourced in the `.Rmd` file
+    b. Write code that automates as much of the process as possible. For example, if you need to download a file, write code that downloads the file automation
+    c. If you cannot figure out how to automate a step, you can write a comment explaining what I need to do to run your code (you will lose very few points)
 3. Quality of presentation of graphs and tables (30%): Are they well-labeled? Do they have titles? Do they have legends? Are they formatted well?
 4. Quality of answers (30%): Are they clear? Do they answer the question?
 
-### Solutions 
+#### Solutions 
 
-The solutions are made public once everyone has turned in the assignment (or the grace period has expired). 
+The solutions are made public within a week of the problem set being posted.
 
-### Improving your grade
+#### Improving your grade
 
 In an effort to incentivize you to see coding as an ongoing process of learning and improvement, I will allow you to improve the coding and presentation quality portions of your grade on any problem set. However, you cannot just copy and paste the solutions. 
 
@@ -199,6 +250,25 @@ suppressWarnings({
     dir.create(writing)
 })
 ```
+
+**You must let me know that you are submitting for a regrade.**
+
+### Final Project
+
+You will write a final project over the course of the semester. Further details are available [here](https://github.com/ECON368-fall2023-big-data-and-economics/final-project).
+
+### Participation
+
+Participation on GitHub is a bonus worth up to 10% of your grade. I will rate participation based on the following criteria:
+
+- Are you posting thoughtful questions to GitHub Issues? Follow the guidelines on [stackoverflow](https://stackoverflow.com/help/how-to-ask) for posting a good question. 
+- Are you replying to questions on GitHub Issues? Follow the guidelines on [stackoverflow](https://stackoverflow.com/help/how-to-answer#:~:text=Read%20the%20question%20carefully&text=Make%20sure%20your%20answer%20provides,going%20in%20the%20right%20direction.) to write a good answer.
+
+The goal is to encourage you to work together to solve problems. This is one of the most important skills you can take away from this, and really any, course. I also want to incentivize you to think carefully about how you post. Be kind and respectful, as much as you endeavor to be clear, concise, and helpful.
+
+For each problem set, use the Issues tab for that specific problem set. For course materials, you can use that tab. 
+
+I will be monitoring the GitHub Issues tab for each repository and will award participation points to those who are actively engaging per the guidelines from stackoverflow. 
 
 ## FAQ
 
